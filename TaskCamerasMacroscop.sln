@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskCamerasMacroscop", "TaskCamerasMacroscop\TaskCamerasMacroscop.csproj", "{07B097A0-6B35-4E45-9D3E-17D0331C9034}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07B097A0-6B35-4E45-9D3E-17D0331C9034}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07B097A0-6B35-4E45-9D3E-17D0331C9034}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07B097A0-6B35-4E45-9D3E-17D0331C9034}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07B097A0-6B35-4E45-9D3E-17D0331C9034}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36C497CF-1424-4E4C-B745-91BB08A113F1}
+	EndGlobalSection
+EndGlobal

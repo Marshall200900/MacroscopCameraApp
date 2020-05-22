@@ -1,4 +1,4 @@
 # MacroscopCameraApp
 Application that shows the videocams streaming using Macroscop open API
 
-Macroscop Camera viewer App
+<p>Macroscop Camera viewer App</p>

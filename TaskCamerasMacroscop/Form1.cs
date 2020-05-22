@@ -92,7 +92,6 @@ namespace TaskCamerasMacroscop
             query["channelid"] = channels.First().Attribute("Id").Value;
             query["fps"] = "10";
             curUrl = DEFAULT_URL + query.ToString();
-            Console.WriteLine(curUrl);
         }
 
 

@@ -33,8 +33,8 @@ namespace TaskCamerasMacroscop
 
             Task.Run(() => Parse());
             nameLabel.Text =  LABEL_NAME + "Entrance";
-            activeButton = corridorBtn;
-            SetGreenColor(corridorBtn);
+            activeButton = entranceBtn;
+            SetGreenColor(entranceBtn);
         }
 
 

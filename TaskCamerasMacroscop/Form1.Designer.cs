@@ -49,7 +49,7 @@
             // 
             // corridorBtn
             // 
-            this.corridorBtn.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.corridorBtn.BackColor = System.Drawing.Color.White;
             this.corridorBtn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.corridorBtn.Font = new System.Drawing.Font("Microsoft Tai Le", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.corridorBtn.Location = new System.Drawing.Point(646, 75);
